@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+
+main()
+{
+    bool camparison;
+    int num1 = 5,num2 = 3;
+    camparison = num1>num2;
+    if(camparison)
+    cout<<num1<<"is grater than"<<num2<<endl;
+    else
+    cout<<num1<<"is smaller than"<<num2<<endl;
+    return 0;
+    
+         
+}
+
+ OUTPUT
+        5 is grater than3
+
+
+
+
+}
