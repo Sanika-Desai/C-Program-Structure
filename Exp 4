@@ -1,0 +1,14 @@
+    #include<iostream>
+    using namesace std;
+
+    int main()
+    {
+    bool imageColor = true;
+    if(imageColor)
+    cout<<"Yes, The image is colorfull"<<endl;
+    else
+    cout<<"image is not colorfull"<<endl;
+    }
+
+    OUTPUT
+    Yes, The image is colorfull
